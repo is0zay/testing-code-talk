@@ -1,0 +1,2 @@
+What types of tests is Cypress designed for?
+	Cypress is designed for Unit Testing and End2End testing.

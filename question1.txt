@@ -1,0 +1,8 @@
+What Cypress is and why you should use it?
+	Cypress is a next generation front end testing tool built for the modern web. Cypress addresses the key pain points developers and QA engineers face when testing modern applications.
+
+	Cypress makes it possible to:
+	- Set up tests
+	- Write tests
+	- Run tests
+	- Debug Tests	
